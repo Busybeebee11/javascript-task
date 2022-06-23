@@ -1,4 +1,4 @@
-var myName = "Blessing Olusiyan \n"
+var myName = "Blessing Olusiyan. \n"
 var height = "5ft2in tall \n"
 var country = "Nigeria \n"
 
