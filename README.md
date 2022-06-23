@@ -14,7 +14,7 @@ alert("My name is " + myName + "I'm " + height + "I'm from " + country)
 ```
 ---
 OUTCOME
-![preview](img/jsintro.jpeg)
+![preview](img/introtojs.png)
 
 
 
