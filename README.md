@@ -13,6 +13,10 @@ var country = "Nigeria \n"
 alert("My name is " + myName + "I'm " + height + "I'm from " + country)
 ```
 ---
+## HOSTED PAGE
+[https://busybeebee11.github.io/javascript-task/]
+---
+
 OUTCOME
 ![preview](img/introtojs.png)
 
